@@ -37,7 +37,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>💻 Written with </b></td>
+      <td><b>💻 Built with </b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
